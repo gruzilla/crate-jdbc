@@ -14,7 +14,7 @@ JDBC is a core API for Java 1.1 and later. It provides a standard set of
 interfaces to SQL-compliant databases.
 
 This is a type 4 JDBC driver. The driver is written in pure Java, and
-communicates with the database using the PostgreSQL Wire Protocol.
+communicates with the database using the `PostgreSQL Wire Protocol`_.
 
 Prerequisites
 =============
@@ -80,3 +80,4 @@ Looking for more help?
 .. _StackOverflow: https://stackoverflow.com/tags/crate
 .. _the project documentation: https://crate.io/docs/projects/crate-jdbc/
 .. _getting started: https://crate.io/docs/projects/crate-jdbc/getting-started.html
+.. _PostgreSQL Wire Protocol: https://crate.io/docs/crate/reference/en/latest/interfaces/postgres.html
