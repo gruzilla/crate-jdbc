@@ -10,7 +10,7 @@ CrateDB JDBC Driver
 
 A JDBC_ driver for `CrateDB`_.
 
-JDBC is a core API of Java 1.1 and later. It provides a standard set of
+JDBC is a core API for Java 1.1 and later. It provides a standard set of
 interfaces to SQL-compliant databases.
 
 This is a type 4 JDBC driver. The driver is written in pure Java, and
