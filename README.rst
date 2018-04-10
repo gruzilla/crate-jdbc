@@ -8,12 +8,12 @@ CrateDB JDBC Driver
 
 |
 
-A JDBC_ driver for `CrateDB`_.
+A `JDBC`_ driver for `CrateDB`_.
 
 JDBC is a core API for Java 1.1 and later. It provides a standard set of
 interfaces to SQL-compliant databases.
 
-This is a type 4 JDBC driver. The driver is written in pure Java, and
+This is a `type 4 JDBC driver`_. The driver is written in pure Java, and
 communicates with the database using the `PostgreSQL Wire Protocol`_.
 
 Prerequisites
@@ -83,3 +83,4 @@ Looking for more help?
 .. _Slack: https://crate.io/docs/support/slackin/
 .. _StackOverflow: https://stackoverflow.com/tags/crate
 .. _the project documentation: https://crate.io/docs/projects/crate-jdbc/
+.. _type 4 JDBC driver: https://en.wikipedia.org/wiki/JDBC_driver#Type_4_driver_.E2.80.93_Database-Protocol_driver_.28Pure_Java_driver.29
