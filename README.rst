@@ -22,8 +22,7 @@ Prerequisites
 The CrateDB JDBC requires `Java 8`, preferably update 20 or later. We recommend
 using `Oracle’s Java`_ on macOS and `OpenJDK`_ on Linux Systems.
 
-Consult the `compatibility notes`_ for information about supported JDBC and
-CrateDB versions.
+Consult the `compatibility notes`_ for additional information.
 
 Installation
 ============
