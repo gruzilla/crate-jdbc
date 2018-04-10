@@ -26,6 +26,8 @@ greater than or equal to 0.38.
 Installation
 ============
 
+These instructions show you how to build the CrateDB JDBC driver from the source code. For a conventional install, follow the `getting started`_ documentation.
+
 Clone the repository::
 
     $ git clone --recursive https://github.com/crate/crate-jdbc
@@ -72,3 +74,4 @@ Looking for more help?
 .. _Slack: https://crate.io/docs/support/slackin/
 .. _StackOverflow: https://stackoverflow.com/tags/crate
 .. _the project documentation: https://crate.io/docs/projects/crate-jdbc/
+.. _getting started: https://crate.io/docs/projects/crate-jdbc/getting-started.html
