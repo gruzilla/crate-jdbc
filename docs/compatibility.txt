@@ -30,6 +30,14 @@ implementations.
 CrateDB
 =======
 
+For driver versions 1.x:
+
+- CrateDB 0.38.x or later, but older than 0.56.0
+
+For driver versions 2.x:
+
+- CrateDB 0.56.x or later
+
 All versions of the JDBC driver >= 2.0.x require CrateDB 0.56.0 or newer.
 Previous versions of the JDBC driver (1.x) are only compatible with older
 versions of CrateDB.

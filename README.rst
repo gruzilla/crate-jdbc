@@ -19,13 +19,11 @@ communicates with the database using the `PostgreSQL Wire Protocol`_.
 Prerequisites
 =============
 
-For driver versions 1.x:
+The CrateDB JDBC requires `Java 8`, preferably update 20 or later. We recommend
+using `Oracle’s Java`_ on macOS and `OpenJDK`_ on Linux Systems.
 
-- CrateDB 0.38.x or later, but older than 0.56.0
-
-For driver versions 2.x:
-
-- CrateDB 0.56.x or later
+Consult the `compatibility notes` for information about supported JDBC and
+CrateDB versions.
 
 Installation
 ============
@@ -69,15 +67,19 @@ Looking for more help?
 - Chat with us on `Slack`_
 - Get `paid support`_
 
+.. _compatibility notes: https://crate.io/docs/clients/jdbc/en/latest/compatibility.html
 .. _contribution docs: CONTRIBUTING.rst
 .. _Crate.io: http://crate.io/
 .. _CrateDB: https://github.com/crate/crate
 .. _developer docs: DEVELOP.rst
+.. _getting started: https://crate.io/docs/projects/crate-jdbc/getting-started.html
+.. _Java 8: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 .. _JDBC: http://www.oracle.com/technetwork/java/overview-141217.html
 .. _Jitpack: https://jitpack.io/#crate/crate-jdbc
+.. _OpenJDK: http://openjdk.java.net/projects/jdk8/
+.. _Oracle’s Java: http://www.java.com/en/download/help/mac_install.xml
 .. _paid support: https://crate.io/pricing/
+.. _PostgreSQL Wire Protocol: https://crate.io/docs/crate/reference/en/latest/interfaces/postgres.html
 .. _Slack: https://crate.io/docs/support/slackin/
 .. _StackOverflow: https://stackoverflow.com/tags/crate
 .. _the project documentation: https://crate.io/docs/projects/crate-jdbc/
-.. _getting started: https://crate.io/docs/projects/crate-jdbc/getting-started.html
-.. _PostgreSQL Wire Protocol: https://crate.io/docs/crate/reference/en/latest/interfaces/postgres.html
