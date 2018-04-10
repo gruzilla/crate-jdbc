@@ -13,11 +13,13 @@ A JDBC_ driver for `CrateDB`_.
 Prerequisites
 =============
 
-The CrateDB JDBC driver 2.x requires a CrateDB version greater than or equal to
-0.56.
+For driver versions 1.x:
 
-The CrateDB JDBC driver 1.x requires a CrateDB version less than 0.56 but
-greater than or equal to 0.38.
+- CrateDB 0.38.x or later, and older than 0.56.0
+
+For driver versions 2.x:
+
+- CrateDB 0.56.x or later
 
 Installation
 ============
