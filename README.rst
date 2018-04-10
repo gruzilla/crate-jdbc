@@ -15,7 +15,7 @@ Prerequisites
 
 For driver versions 1.x:
 
-- CrateDB 0.38.x or later, and older than 0.56.0
+- CrateDB 0.38.x or later, but older than 0.56.0
 
 For driver versions 2.x:
 
