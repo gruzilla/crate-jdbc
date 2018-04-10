@@ -10,10 +10,6 @@ CrateDB JDBC Driver
 
 A JDBC_ driver for `CrateDB`_.
 
-Currently, we do not provide the testing version of the Crate JDBC driver.
-As a workaround, you can build the JDBC driver jar using `Jitpack`_, or
-build it from source.
-
 Prerequisites
 =============
 
@@ -26,7 +22,8 @@ greater than or equal to 0.38.
 Installation
 ============
 
-These instructions show you how to build the CrateDB JDBC driver from the source code. For a conventional install, follow the `getting started`_ documentation.
+These instructions show you how to build the CrateDB JDBC driver from the source
+code. For a conventional install, follow the `getting started`_ documentation.
 
 Clone the repository::
 
